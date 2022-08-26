@@ -1,0 +1,14 @@
+{
+  "name": "portafolioparallax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "styles": "sass css/scss/sass/main.scss css/main.min.css --watch -c --style=compressed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.54.5"
+  }
+}
